@@ -58,15 +58,9 @@ big: big()
 blink: blink()
 bold: bold()
 charAt: charAt()
-charCodeAt
-: 
-ƒ charCodeAt()
-codePointAt
-: 
-ƒ codePointAt()
-concat
-: 
-ƒ concat()
+charCodeAt: charCodeAt()
+codePointAt: codePointAt()
+concat: ƒ concat()
 constructor
 : 
 ƒ String()
